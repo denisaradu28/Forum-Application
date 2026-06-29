@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fde3d7;
+  color: #000;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+body.dark-mode {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+input,
+button {
+  font-size: 1rem;
+}
+
+a {
+  color: inherit;
+}

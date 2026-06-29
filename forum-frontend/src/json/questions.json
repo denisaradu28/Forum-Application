@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Test question",
+    "text": "This is a test",
+    "picture": "",
+    "status": "RECEIVED",
+    "creationDateTime": "2026-04-19T20:00:00",
+    "author": {
+      "id": 2,
+      "username": "maria"
+    },
+    "tags": [
+      { "id": 1, "name": "java" }
+    ]
+  }
+]
